@@ -1,1 +1,1 @@
-# Aula00_Minicurso_Phyton
+# Aula00_Minicurso_Python
